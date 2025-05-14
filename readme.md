@@ -47,3 +47,41 @@ Underline 2
 
 ![Logo github](https://www.pngall.com/wp-content/uploads/13/Github-Logo.png)
 
+# Code Snippets
+
+```JSON
+{
+"name": "John",
+"age": 30,
+"car": null
+}
+```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| Luis   | Gonzalez | 12343145L |
+| Tomás  | Fernandez| 34525646T |
+
+# Citas 
+Esto es un texto sobre una cita:
+> Esto es una cita 
+
+Esto es otro texto a parte de la cita:
+> Entre citas se deja espacio de separación para luego escribir un texto normal.
+
+# Lineas divisorias sin texto
+Linea de guiones medios:
+---
+
+Linea dividida por asteriscos:
+***
+
+Linea dividida por guiones bajos:
+___
+
+# Saltos de línea
+ Párrafo
+
+ Párrafo
