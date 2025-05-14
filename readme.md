@@ -5,4 +5,18 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
-Soy un readme
+Underline 1
+------------
+
+Underline 2
+===========
+
+- *Itálica* 1
+
+- _Itálica_ 2
+
+- **Negrita** 1
+
+- __Negrita__ 2
+
+- ~~Tachado~~
